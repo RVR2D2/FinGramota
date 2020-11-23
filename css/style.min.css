@@ -571,7 +571,8 @@ img.qw {
 }
 
 .info__text:hover {
-    color: gold
+    color: gold;
+    cursor: pointer;
 }
 
 p.info__p {
